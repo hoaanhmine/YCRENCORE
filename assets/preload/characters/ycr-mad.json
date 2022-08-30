@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "k",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				87
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Exe Left ig",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				-65
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Xenophanes Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				225
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Exe Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				225
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "Exe Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Exe Right copy",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicP2mad",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "ycr-pissy",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		13,
+		135
+	],
+	"camera_position": [
+		-110,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
